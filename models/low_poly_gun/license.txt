@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Gun
+* source:	https://sketchfab.com/3d-models/low-poly-gun-9ce638afc35e4cf19b3ab195e6f8e35e
+* author:	bendy_98 (https://sketchfab.com/bendy_98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Gun" (https://sketchfab.com/3d-models/low-poly-gun-9ce638afc35e4cf19b3ab195e6f8e35e) by bendy_98 (https://sketchfab.com/bendy_98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
